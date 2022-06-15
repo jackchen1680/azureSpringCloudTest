@@ -2,11 +2,12 @@ logging:
   level:
     org:
       springframework: INFO
-message: HELLO123-update on 2021/5/14
+message: HELLO123-update on 2022/06
 spring:
   cloud:
     config:
       auto-refresh: false
       refresh-interval: 1000
-name: jackFromGit
-password: 789456FromtGIt
+azuretest:
+  name: jackFromGit-1110
+  password: 789456FromtGIt-1110
