@@ -11,3 +11,6 @@ spring:
 azuretest:
   name: jackFromGit-1110
   password: 789456FromtGIt-1110
+azuretest2:
+  name: jackFromGitFromSpringTest2
+  password: 789456FromTest2
